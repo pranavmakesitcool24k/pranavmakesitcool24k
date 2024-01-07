@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [pranavpardeshi.tk](pranavpardeshi.tk)
 
-- 💬 Ask me about **Frontend Devlopement**
+- 💬 Ask me about **Full-Stack Devlopement**
 
 - 📫 How to reach me **imailpranav24k@gmail.com**
 

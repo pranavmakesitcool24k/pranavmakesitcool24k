@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence & Data Science**
 
-- 👨‍💻 All of my projects are available at [Here!](https://pranavpardeshiportfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [Here!](https://pranavpardeshi.serv00.net/)
 
 - 💬 Ask me about **Full-Stack Devlopement**
 

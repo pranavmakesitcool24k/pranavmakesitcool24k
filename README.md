@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Pranav Pardeshi</h1>
-<h3 align="center">Full‑Stack Developer • AI & Data Science</h3>
+<h3 align="center">Full-Stack Developer • AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:imailpranav24k@gmail.com">
@@ -18,6 +18,9 @@
   <a href="https://www.instagram.com/pranav_pardeshi24k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@pranav_pardeshi24k-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram badge">
   </a>
+  <a href="https://www.youtube.com/@pranavpardeshi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-PranavPardeshi-FF0000?style=flat&logo=youtube&logoColor=white" alt="youtube badge">
+  </a>
 </p>
 
 <p align="center">
@@ -29,72 +32,87 @@
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding animation">
 </p>
 
-<!-- About -->
-### About
-- 🌱 Currently learning: Artificial Intelligence & Data Science  
-- 👨‍💻 Portfolio: <a href="https://portfolio-914f0.web.app" target="_blank">portfolio-914f0.web.app</a>  
-- 💬 Ask me about: Full‑Stack Development, REST APIs, UI engineering  
-- 📫 Reach me: <a href="mailto:imailpranav24k@gmail.com">imailpranav24k@gmail.com</a>  
-- ⚡ Fun fact: I fail, I pass — iteration is the superpower  
+---
 
-<!-- Tech Stack -->
-### Tech stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,fastapi,angular,bootstrap,tailwind,redux,webpack" height="32" alt="core web stack"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=django,flask,php,java,c,cpp" height="32" alt="backend & languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" height="32" alt="databases"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,azure,gcp,docker,kubernetes,git,github,linux" height="32" alt="devops & cloud"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino,ps" height="32" alt="ai, embedded & design"/>
-</p>
+## 👨‍💻 About Me  
+- 🌱 Currently learning: **Artificial Intelligence & Data Science**  
+- 👨‍🎓 Pursuing **B.E. in AI & Data Science** (SPPU University, Pune)  
+- 💼 Past Internships: **Full-Stack Development, React Native, Web Apps**  
+- 💬 Ask me about: Full-Stack Development, REST APIs, UI Engineering, ML/NLP  
+- 📫 Reach me: [imailpranav24k@gmail.com](mailto:imailpranav24k@gmail.com)  
+- ⚡ Fun fact: *I fail, I pass — iteration is the superpower.*  
 
-<!-- Highlights -->
-### Highlights
-- Built full‑stack web apps with Python REST backends and Angular/React frontends focused on clean architecture and UI polish.  
-- Strong grasp of algorithms and data structures from competitive programming practice.  
-- Interested in roles across technical website & multimedia development to craft transformative digital experiences.  
+---
 
-<!-- Projects Quicklinks -->
-### Featured projects
-- Issue Tracker (Python REST + Angular) — role‑based workflow, filters, and analytics.  
-- Portfolio Web App — responsive UI, dynamic theming, and optimized performance.  
-- UI Effects Lab — background animations, cloud/lighting effects, and speed controls.  
-
-<!-- Stats -->
-### GitHub stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavmakesitcool24k&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" alt="top languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavmakesitcool24k&show_icons=true&locale=en&theme=transparent" height="150" alt="github stats">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavmakesitcool24k&theme=transparent" height="150" alt="streak stats">
-</p>
-
-<!-- Social -->
-### Connect
-<p align="left">
-  <a href="https://x.com/pranav24k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="38" alt="twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-pardeshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38" alt="linkedin">
-  </a>
-  <a href="https://facebook.com/pranav.pardeshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28" width="38" alt="facebook">
-  </a>
-  <a href="https://www.instagram.com/pranav_pardeshi24k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38" alt="instagram">
-  </a>
-  <a href="https://www.youtube.com/@pranavpardeshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="28" width="38" alt="youtube">
-  </a>
-</p>
-
-<!-- Footer -->
+## 🛠 Tech Stack  
 <p align="center">
-  <i>Let’s build thoughtful interfaces and resilient systems.</i>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,fastapi,angular,bootstrap,tailwind,redux" height="32"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,php,java,c,cpp" height="32"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" height="32"/>
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,azure,aws,docker,kubernetes,git,github,linux" height="32"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino,ps" height="32"/>
 </p>
+
+---
+
+## 🚀 Experience  
+- **Web Development Intern – Angel Infotec Pvt. Ltd.** (Jan–Jun 2021)  
+  → Built QR Code Appointment System (Frontend + Backend)  
+
+- **Full-Stack Web Development Intern – Edunet Foundation** (Dec 2023–Jan 2024)  
+  → Developed E-Commerce Website using Django  
+
+- **React Native Developer – Across The Globe (ATG)** (Feb–Mar 2024)  
+  → Created Android App for a Salon Boutique  
+
+---
+
+## 📂 Featured Projects  
+- **QR Code Based Meeting Management** – Appointment & Attendance System  
+- **E-Commerce Website** – Django-powered, secure payments, user auth  
+- **Portfolio Website** – Responsive, dynamic theming, high performance  
+- **Content Management Website** – Role-based content editing  
+- **Currency Converter App** – Real-time exchange rates  
+- **Blood Bank Management System** – Donor/recipient portal  
+
+🔗 Explore all: [GitHub Projects](https://github.com/pranavmakesitcool24k?tab=repositories)  
+
+---
+
+## 📑 Research & Publications  
+- **Eye Detection using Python (2023)** – Cursor control with eye blinks  
+- **Sentiment Analysis using NLP (2023)** – User sentiment classification  
+- 📄 Publication: *QR Code Based Appointment System*  
+- 📄 Publication: *Google Cloud Computing & Its Applications*  
+
+---
+
+## 🏆 Achievements  
+- 🥈 2nd Place – College Coding Competition (2023)  
+- 🎖 Top 100 Google Cloud Swags (2022)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavmakesitcool24k&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavmakesitcool24k&show_icons=true&locale=en&theme=transparent" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavmakesitcool24k&theme=transparent" height="150" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://x.com/pranav24k"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="38"/></a>
+  <a href="https://www.linkedin.com/in/pranav-pardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/></a>
+  <a href="https://facebook.com/pranav.pardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28" width="38"/></a>
+  <a href="https://www.instagram.com/pranav_pardeshi24k"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38"/></a>
+  <a href="https://www.youtube.com/@pranavpardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="28" width="38"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Let’s build thoughtful interfaces and resilient systems.”</i></p>

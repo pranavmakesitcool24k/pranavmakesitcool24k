@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Pranav Pardeshi</h1>
-<h3 align="center">Full-Stack Developer • AI & Data Science Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • AI & Data Science</h3>
 
 <p align="center">
   <a href="mailto:imailpranav24k@gmail.com">
@@ -32,10 +32,9 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Currently learning: **Artificial Intelligence & Data Science**  
-- 👨‍🎓 Pursuing **B.E. in AI & Data Science** (SPPU University, Pune)  
+- 🎓 **B.E. in Artificial Intelligence & Data Science** (SPPU University, Pune)  
 - 💼 Past Internships: **Full-Stack Development, React Native, Web Apps**  
-- 💬 Ask me about: Full-Stack Development, REST APIs, UI Engineering, ML/NLP  
+- 💬 Ask me about: **Full-Stack Development, AI & Data Science**  
 - 📫 Reach me: [imailpranav24k@gmail.com](mailto:imailpranav24k@gmail.com)  
 - ⚡ Fun fact: *I fail, I pass — iteration is the superpower.*  
 
@@ -107,7 +106,6 @@
   <a href="https://www.linkedin.com/in/pranav-pardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/></a>
   <a href="https://facebook.com/pranav.pardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28" width="38"/></a>
   <a href="https://www.instagram.com/pranav_pardeshi24k"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38"/></a>
-  <a href="https://www.youtube.com/@pranavpardeshi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="28" width="38"/></a>
 </p>
 
 ---

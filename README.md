@@ -18,9 +18,6 @@
   <a href="https://www.instagram.com/pranav_pardeshi24k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@pranav_pardeshi24k-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram badge">
   </a>
-  <a href="https://www.youtube.com/@pranavpardeshi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-PranavPardeshi-FF0000?style=flat&logo=youtube&logoColor=white" alt="youtube badge">
-  </a>
 </p>
 
 <p align="center">
